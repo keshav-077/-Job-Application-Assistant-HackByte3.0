@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Job Search Automation - Team 9749</title>
+    <h2>Job Search Automation - Team 9749</h2>
    
 </head>
 <body>
