@@ -36,6 +36,9 @@
             <li>Automatically sends those emails to recruiters. No <code>Ctrl+V</code> needed.</li>
             <li>Returns a single Google Sheet with every job, contact, and email status for easy tracking.</li>
         </ul>
+        <h2>Project Workflow</h2>
+<p>Below is the visual workflow of how our automation works:</p>
+<img src="Screenshot%202025-07-25%20005734.png" alt="Project Workflow Diagram" style="max-width: 100%; border: 1px solid #ccc; border-radius: 6px;">
         <h2>What Makes It Awesome</h2>
         <ul>
             <li>One prompt, many jobs. No more juggling tabs or logging into 5 job sites.</li>
