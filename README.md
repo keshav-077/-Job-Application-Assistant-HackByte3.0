@@ -12,6 +12,9 @@
         <p>
             Job hunting in 2025 still feels like it’s stuck in 2010. Open 20 tabs, refresh job boards, copy-paste the same cold email, hope it lands somewhere other than a recruiter’s trash. It’s exhausting, repetitive, and wildly inefficient.
         </p>
+       <h2>✨ You can check the Project here: 
+        <a href="https://devfolio.co/projects/vibe-apply-c25f" target="_blank"><b>🚀 Click to View Project</b></a>
+        </h2>
         <h2>Problem It Solves</h2>
         <p>If you're a job seeker, chances are you’ve:</p>
         <ul>
