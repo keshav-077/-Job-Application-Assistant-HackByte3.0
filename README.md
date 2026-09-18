@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=90&lines=%22Data+Analyst+in+Bangalore%22+%E2%86%92+jobs+found;%E2%86%92+recruiters+discovered;%E2%86%92+emails+sent+%E2%9C%94" alt="Typing SVG" />
+<img src="assets/typing-banner.svg" alt="Typing animation of example queries" width="640"/>
 
 <br/>
 
@@ -34,7 +34,7 @@ Job hunting in 2025 still feels like it's stuck in 2010. Open 20 tabs, refresh j
 **Vibe Apply turns one sentence into a finished job-search sprint.**
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=8B5CF6&center=true&vCenter=true&width=560&lines=%22Backend+Developer+in+Berlin%22;%22Marketing+Manager%2C+Remote%22;%22Business+Analyst+in+Bangalore%22" alt="examples" />
+<img src="assets/workflow-pulse.svg" alt="Animated pipeline: input to AI parse to scrape to recruiter to email to sheet" width="820"/>
 </div>
 
 <br/>
@@ -122,6 +122,7 @@ flowchart LR
 <br/><br/>
 
 <b>3. Personalized outreach, sent automatically</b><br/>
+<img src="assets/email-sent.svg" width="70%"/><br/><br/>
 <img src="assets/gmail-outreach.png" width="80%"/>
 
 <br/><br/>
@@ -134,6 +135,10 @@ flowchart LR
 <br/>
 
 ## 🧠 Tech Stack
+
+<div align="center">
+<img src="assets/tech-orbit.svg" alt="Orbiting tech stack around the Vibe Apply hub" width="320"/>
+</div>
 
 <div align="center">
 
